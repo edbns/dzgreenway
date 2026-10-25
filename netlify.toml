@@ -1,0 +1,5 @@
+# Static landing page: publish the finished files directly.
+[build]
+  base = "."
+  publish = "dist"
+  command = ""
