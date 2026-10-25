@@ -53,7 +53,7 @@
   const stages=[
     {kicker:'THE STARTING POINT',title:'A bottle’s story<br>can keep going.',description:'PET plastic has possibilities beyond its first use. Recycling gives the material a chance to begin again.',label:'01 / USED PET'},
     {kicker:'THE TRANSFORMATION',title:'Smaller pieces.<br>New possibilities.',description:'Sorting, washing and processing can turn used PET into recycled flakes — a material ready for its next chapter.',label:'02 / RECYCLED FLAKES'},
-    {kicker:'THE DIRECTION',title:'A greener way<br>to move forward.',description:'This is the idea behind SARL DZ GREEN WAY: building a new PET recycling factory with tomorrow in mind.',label:'03 / A NEW BEGINNING'}
+    {kicker:'THE DIRECTION',title:'A greener way<br>to move forward.',description:'This is the idea behind SARL DZ GREEN WAY: building a new PET recycling factory in Algeria with tomorrow in mind.',label:'03 / A NEW BEGINNING'}
   ];
   let target=0,progress=0,stage=-1,auto=!reduced,loopTime=0,cycleTime=0;
   const slider=$('#transformation');
